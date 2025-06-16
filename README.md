@@ -95,7 +95,7 @@ Used both ANN and Random Forest to predict churn on a sample customer with the f
 
 **Anjali Pillai**  
 Aspiring Data Scientist | AI & Data Science Engineer  
-[LinkedIn Profile](https://www.linkedin.com/in/anjalipillai2603) *(optional)*
+[LinkedIn Profile](www.linkedin.com/in/anjali-pillai-367b2b259) 
 
 ---
 
